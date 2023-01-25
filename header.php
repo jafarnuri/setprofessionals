@@ -38,7 +38,7 @@ $ayarcek=$ayarsor->fetch(PDO::FETCH_ASSOC);
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="#hero">Ana Sayfa</a></li>
-          <li><a href="#about">Haqqimizda </a></li>
+          <li><a href="#about">Abaut </a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>         
